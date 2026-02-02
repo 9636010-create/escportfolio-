@@ -2,7 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
-	  font: 100%/URW Chancery L, cursive;
+	  font: 100%/New Century Schoolbook, TeX Gyre Schola, serif;
 }
 .homePage {
 	background: #BBC3FS;
