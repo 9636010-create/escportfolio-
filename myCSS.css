@@ -29,13 +29,14 @@ body {
 	width: 100%;
 	height: 60px;
 	text-align: center;
-}
-.content {
+	{
+	.content {
 	background: #DCDAF7;
-	margin: 0px;
+	margin: 10px;
+		Padding: 5;
 	float: left;
 	width: 100%;
-	text-align: center;
+	text-align: left;
 }
 .footer {
 	background: #E7BCF7;
